@@ -1,0 +1,233 @@
+.app-sidebar__user-avatar
+{
+	width: 48px;
+	background: gray;
+	padding: 6 px;
+}
+
+.headerRegister, .header-primary
+{
+	background: #0269c9 ;
+	color: #FFF ;
+}
+
+.headerUpdate
+{
+	background: #0269c9 ;
+	color: #FFF ;
+}
+
+.notBlock
+{
+	display: none;
+}
+
+.btn-info
+{
+	background: #128799 ;
+	color: #FFF ;
+}
+
+/*Estilos login*/
+#divLoading{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: rgba(254,254,255, .65);
+	z-index: 9999;
+	display: none;
+}
+#divLoading img{
+	width: 50px;
+	height: 50px;
+}
+
+.required{
+	color: red;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+
+#paiss div{
+	display: none;
+}
+
+.container {
+	width: 75vw;
+	max-width: 1000px;
+	min-width: 320px;
+	margin: auto;
+}
+
+img {
+	
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-image-source: none;
+	border-image-slice: 100% 100% 100% 100%;
+	border-image-width: 1 1 1 1;
+	border-image-outset: 0 0 0 0;
+	border-image-repeat: stretch stretch;
+	
+
+}
+
+ .logos-logo{
+	
+  position: relative;
+  top: -120px; 
+  left: 780px;
+
+} 
+
+
+@media (max-width: 1200.98px) {
+	.logos-logo{
+		width: 75px;
+		position: relative;
+		top: -120px; 
+		left: 700px;
+	}
+	
+}
+@media (max-width: 1000.98px) {
+	.logos-logo{
+		width: 75px;
+		position: relative;
+		top: 0px; 
+		left: 198px;
+	}
+	
+}
+
+
+@media (max-width: 728.98px) {
+	.logos-logo{
+		width: 75px;
+		position: relative;
+		top: 0px; 
+		left: 106px;
+	}
+	
+}
+
+
+@media (max-width: 628.98px) {
+	.logos-logo{
+		width: 75px;
+		position: relative;
+		top: 0px; 
+		left: 69px;
+	}
+	
+}
+
+@media (max-width: 528.98px) {
+	.logos-logo{
+		width: 75px;
+		position: relative;
+		top: 0px; 
+		left: 48px;
+	}
+	
+}
+
+@media (max-width: 428px) {
+	.logos-logo{
+		width: 70px;
+		position: relative;
+		top: 0px; 
+		left: 30px;
+	}
+	
+}
+/* @media (max-width: 768px) {
+	.logos-logo{
+		width: 100px;
+		position: relative;
+		top: 0px; 
+		left: 140px;
+	}
+	
+} */
+
+
+
+label{
+cursor: pointer;
+
+}
+
+#mostrar {
+	color: #6c757d;
+	
+}
+
+.linkw:hover{
+	text-decoration: none;
+}
+
+
+.container-title{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.container-title input{
+	border: 1px solid #CCC;
+	padding: 4px;
+	border-radius: 5px;
+	margin-right: 5px;
+}
+
+.dflex {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.ui-datepicker-calendar {
+	display: none;
+}
+
+.app-header__logo{
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.login-content .logo h1{
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+ .titulo-modal{
+	
+	text-align: center;
+	font-size: 1.55rem;
+	
+}
+
+#escudo{
+	width: 450px;
+	 margin-left: 1.2rem;
+}
+
+
+
+		
+
+
+
