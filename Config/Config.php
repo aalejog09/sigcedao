@@ -1,7 +1,6 @@
 <?php 
 	
-	//define("BASE_URL", "https://c196-201-248-9-217.ngrok.io/sigcabaima";
-	//http://localhost/sigcabaima "http://192.168.1.102/sigcabaima";
+
 
 	const BASE_URL = "http://localhost/sigcedao" ;
 
@@ -26,7 +25,7 @@
 	const NOMBRE_REMITENTE = "SIGCEDAO";
 	const EMAIL_REMITENTE = "no-reply@sigcedao.com";
 	
-	//const WEB_EMPRESA = "http://190.94.247.11/proyecto-araguaney/";
+	
 	const NOMBRE_EMPRESA = "UNNIDAD EDUCATIVA DISTRITAL ANTONIO ORNES";
 	
 
